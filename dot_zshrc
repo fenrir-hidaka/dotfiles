@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# テーマの設定を読み込み
+source ${HOME}/.power-level-10k.sh
+
+# Oh My Zshの設定を読み込み
+source ${HOME}/.oh-my-zsh.sh
+
+# zsh-syntax-highlighting
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
