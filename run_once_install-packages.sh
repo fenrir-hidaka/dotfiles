@@ -22,3 +22,6 @@ volta install node
 
 ### Install yarn
 volta install yarn
+
+### Prettier
+npm i -g prettier
