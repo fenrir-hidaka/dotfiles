@@ -16,4 +16,9 @@ brew bundle --file '${HOME}/.Brewfile'
 # Node.js
 ## Volta
 curl https://get.volta.sh | bash
+
+### Install Node.js
 volta install node
+
+### Install yarn
+volta install yarn
