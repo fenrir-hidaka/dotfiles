@@ -17,3 +17,6 @@ brew bundle --file '${HOME}/.Brewfile'
 ## Volta
 curl https://get.volta.sh | bash
 volta install node
+
+## Prettier
+npm i -g prettier
